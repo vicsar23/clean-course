@@ -1,4 +1,5 @@
 import './style.css'
+import './code-smells/02-high-coupling.ts';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
